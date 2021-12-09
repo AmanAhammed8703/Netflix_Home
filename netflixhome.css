@@ -1,0 +1,416 @@
+body{
+    background-color: #222;
+    margin: 0ch;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.div1{
+    width: 100%;
+    height: 748px;
+    background-color: aquamarine;
+    background: url("IN-en-20211108-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-position: left;
+    float: left;
+    
+}
+.div11{
+    width: 100%;
+    height: 748px;
+    background-color: rgba(0, 0, 0, 0.466);
+   position: relative;
+   box-shadow: inset 0px 60px  110px 0px,
+                inset 0px -60px  110px 0px;
+    
+}
+.div111{
+    width: 94%;
+    height: 100px;
+    
+    margin-left: 60px;
+}
+.netflixlogo{
+width: 172px;
+
+margin-top: 30px;
+}
+
+.lang{
+    width: 100.7px;
+    height: 35.8px;
+    float: right;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 4px;
+    border: solid;
+    border-width: 1px;
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div111 button{
+background-color: #e50914;
+border-color: black;
+width: 86px;
+font-size: medium;
+
+
+}
+.div111 select{
+    border-color: #ffff;
+    background:transparent;
+}
+.div11 h1{
+    color: #ffff;
+font-size: 4rem;
+text-align: center;
+}
+.div112{
+    width: 800px;
+    height: 140px;
+    margin-top: 150px;
+    margin-left: 370px;
+}
+.div11 h2{
+    color: #ffff;
+
+    font-size: 1.625rem;
+    text-align: center;
+    font-weight: 400;
+    margin: 1rem;
+}
+.div11 h3{
+    color: #ffff;
+
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 30px;
+}
+.div11 input{
+    height: 70px;
+    width: 500px;
+    float: left;
+    border-radius: 2px;
+    border: none;
+    margin-right: 0%;
+    margin-top: 0%;
+    padding: 0%;
+    text-indent: 20px;
+    font-size: 15px;
+}
+.div113{
+    margin-left: 390px;
+    height: 70px;
+    width: 748px;
+    border: solid;
+    border-width: 0.5px;
+    background-color: #e50914;
+    border-radius: 2px;
+    
+}
+.getstarted{
+    height: 70px;
+    font-size: 1.875rem;
+    width: 215px;
+    margin-left: 0%;
+    background-color: #e50914;
+    border-radius: 2px;
+    padding: 0%;
+    cursor: pointer;
+    float: left;
+    border: none;
+    color: #ffffff;
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+.div2{
+    background-color: black;
+    height: 454px;
+    width: 100%;
+    float: left;
+    margin-top: 8px;
+}
+.div21{
+    height: 100%;
+    width: 900px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+.div22{
+    height: 100%;
+    width: 618px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+.div22 video{
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 388px;
+}
+.div22 img{
+    width: 500px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 38px;
+    
+}
+.div21 h1{
+    color: #ffff;
+    font-size: 3.125rem;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.div211 h2{
+    color: #ffff;
+    font-size: 1.625rem;
+    margin-top: 30px;
+    
+}
+.div211{
+    width: 550px;
+    margin-left: 250px;
+}
+.div3{
+    background-color: black;
+    height: 454px;
+    width: 100%;
+    position: relative;
+    margin-top: 8px;
+}
+.div31{
+    height: 100%;
+    width: 518px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    
+}
+.div312 img{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 450px;
+    
+}
+
+.div311{
+    width: 55px;
+    height: 60px;
+    margin-left:30px;
+    margin-top: 31px;
+    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif);
+    background-size: 60px 60px;
+    top:280px;
+    left: 415px;
+    position: absolute;
+}
+.div32{
+    width: 550px;
+    height: 100%;
+    float: right;
+    display: inline;
+    top: 0px;
+    left: 700px;
+    position: absolute;
+    
+}
+.div32 h1{
+    font-size: 3.125rem;
+    margin-top: 150px;
+    color: #ffff;
+}
+.div32 h2{
+    font-size: 1.625rem;
+    color: #ffff;
+    font-weight: 400;
+}
+.div4{
+    background-color: black;
+    height: 454px;
+    width: 100%;
+    float: left;
+    margin-top: 8px;
+}
+.div41{
+    height: 100%;
+    width: 700px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+.div42{
+    height: 100%;
+    width: 618px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    position: relative;
+}
+.div42 video{
+    width: 300px;
+    margin-left: 197px;
+    margin-top: 50px;
+    position: relative;
+}
+.div42 img{
+    width: 500px;
+    position: absolute;
+    float: left;
+    left: 100px;
+    top:10px
+}
+.div41 h1{
+    font-size: 3.125rem;
+    margin-top: 150px;
+    margin-left: 200px;
+    color: #ffff;
+}
+.div41 h2{
+    font-size: 1.625rem;
+    color: #ffff;
+    margin-left: 200px;
+    font-weight: 400;
+}
+.div5{
+    background-color: black;
+    height: 454px;
+    width: 100%;
+    float: left;
+    margin-top: 8px;
+}
+.div52{
+    height: 100%;
+    width: 700px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+.div51{
+    height: 100%;
+    width: 618px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    position: relative;
+}
+.div52 h1{
+    font-size: 3.125rem;
+    margin-top: 100px;
+    margin-left: 200px;
+    color: #ffff;
+}
+.div52 h2{
+    font-size: 1.625rem;
+    color: #ffff;
+    margin-left: 200px;
+    font-weight: 400;
+}
+.div51 img{
+    width: 600px;
+}
+.div6{
+    background-color: black;
+    height: 854px;
+    width: 100%;
+    float: left;
+    margin-top: 8px;
+}
+.div6 h1{
+    font-size: 3.125rem;
+    margin-top: 50px;
+    margin-left: 410px;
+    color: #ffff;
+}
+.div61{
+    width: 800px;
+    height: 500px;
+    margin-left: 350px;
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+}
+.div61x{
+    width: 100%;
+    height: 70px;
+    margin-top: 10px;
+    background-color: #303030;
+}
+.div61x button{
+    width: 80%;
+    height: 70px;
+    background-color: #303030;
+    border: none;
+    text-align: left;
+    text-indent: 10px;
+    color: #ffff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.div61x p{
+    width: 5%;
+    height: 50px;
+    background-color: #303030;
+    border: none;
+    text-align: left;
+    text-indent: 10px;
+    color: #ffff;
+    float: right;
+    padding: 10px;
+    margin: 0%;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.div6 input{
+    height: 70px;
+    width: 500px;
+    float: left;
+    border-radius: 2px;
+    border: none;
+    margin-right: 0%;
+    margin-top: 0%;
+    padding: 0%;
+    text-indent: 20px;
+    font-size: 15px;
+}
+.div6 h3{
+    color: rgb(255, 255, 255);
+    margin-left: 450px;
+    font-weight: 400;
+}
+.div7{
+    background-color: black;
+    height: 454px;
+    width: 100%;
+    float: left;
+    margin-top: 8px;
+}
+.div71{
+    width: 70%;
+    min-height: 70%;
+    
+    margin-left: 230px;
+    margin-top: 100px;
+}
+.div71 h2{
+    margin-top: 10px;
+    font-weight: 200;
+    color: #797878;
+}
+table{
+    font-size: 14px;
+    color: #797878;
+}
+.lang1{
+    width: 100.7px;
+    height: 35.8px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 4px;
+    border: solid;
+    border-width: 1px;
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: transparent;
+}
+
+
